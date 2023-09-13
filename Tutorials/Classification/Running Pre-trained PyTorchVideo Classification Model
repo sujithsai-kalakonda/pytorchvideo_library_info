@@ -1,0 +1,2 @@
+Running a pre-trained PyTorchVideo classification model using Torch Hub:
+PyTorchVideo provides several pretrained models through Torch Hub. In this tutorial we will show how to load a pre trained video classification model in PyTorchVideo and run it on a test video. The PyTorchVideo Torch Hub models were trained on the Kinetics 400 dataset.
