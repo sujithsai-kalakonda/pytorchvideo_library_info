@@ -1,1 +1,5 @@
+PyTorchVideo provides several pretrained models through Torch Hub. In this tutorial we will show how to load a pre trained video classification model in PyTorchVideo and run it on a test video. The PyTorchVideo Torch Hub models were trained on the Kinetics 400 dataset and finetuned specifically for detection on AVA v2.2 dataset. Available models are described in model zoo documentation.
 
+NOTE: Currently, this tutorial only works if ran on local clone from the directory pytorchvideo/tutorials/video_detection_example
+
+This tutorial assumes that you have installed Detectron2 and Opencv-python on your machine.
